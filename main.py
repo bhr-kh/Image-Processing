@@ -1,3 +1,3 @@
-x = "hello"
+x = "test"
 
 print(x)
